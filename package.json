@@ -1,0 +1,21 @@
+{
+  "name": "rxjs-codemod",
+  "version": "1.0.0",
+  "description": "Code transformations for RxJS sources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rxjs",
+    "ast",
+    "transformation",
+    "methods",
+    "porting"
+  ],
+  "author": "Sergi Mansilla <sergi.mansilla@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.8.1"
+  }
+}
